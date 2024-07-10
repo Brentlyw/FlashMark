@@ -4,8 +4,9 @@ This is version 1.0.0 - Please expect bugs
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Progress is slow on real drives, please be patient.
-32GB *Real Drive* >> 1m 50s (Medium Accuracy)
+**Progress can be slow on real flash drives, please be patient.
+32GB *Real Flash Drive* >> 1m 50s (Medium Accuracy)
+2TB *Real Samsung 990 Pro* >> 20s (Medium Accuracy)
 "512GB" (64GB) Fake Drive >> 0m 14s (Medium Accuracy)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
